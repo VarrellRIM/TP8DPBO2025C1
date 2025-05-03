@@ -3,8 +3,7 @@
 ## Janji
 Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan TP8 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-## Deskripsi Tugas
-Mengimplementasikan konsep MVC dan relasi antar tabel pada project PHP
+## Dokumentasi
 
 ## Desain Program
 
@@ -97,5 +96,3 @@ Program ini menerapkan arsitektur MVC (Model-View-Controller) dengan struktur fo
    - Controller redirect ke halaman index
 
 Alur yang sama berlaku untuk manajemen data jurusan (majors).
-
-## Dokumentasi
