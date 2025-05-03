@@ -5,6 +5,9 @@ Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan TP8 dalam mata
 
 ## Dokumentasi
 
+## Diagram ERD
+![image](https://github.com/user-attachments/assets/49d590ed-9878-4d79-8405-9b8eba70b7d0)
+
 ## Desain Program
 
 ### Struktur Database
