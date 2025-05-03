@@ -3,7 +3,7 @@ class Connection
 {
     private $servername = "localhost";
     private $username = "root";
-    private $password = "new_password";
+    private $password = "";
     private $db_name = "tp_mvc";
     public $conn;
 
